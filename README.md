@@ -16,7 +16,7 @@
 ---
 
 ## 📂 Proyectos destacados
-- 📊 [Gestor de gastos en Streamlit](https://github.com/franmacha1999/gestor-gastos)  
+- 📊 [Gestor de gastos en Streamlit]  
   Aplicación interactiva para registrar y visualizar gastos con gráficos dinámicos.  
 
 - ✅ Gestor de tareas con base de datos (en desarrollo)  
