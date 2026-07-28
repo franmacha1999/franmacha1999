@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes**: Python, SQL  
-- **Frameworks**: Streamlit, Flask (aprendiendo)  
+- **Frameworks**: FastApi, Django ,Streamlit, Flask (aprendiendo)  
 - **Data**: Pandas, Matplotlib, Plotly  
 - **Bases de datos**: SQLite, PostgreSQL (en progreso)  
 - **Otros**: Git, GitHub, Jupyter Notebooks  
